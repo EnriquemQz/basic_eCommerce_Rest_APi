@@ -11,5 +11,5 @@ El proyecto se centra en la implementación de operaciones básicas, como la cre
 
 ¡Explora el código y disfruta aprendiendo sobre el desarrollo de aplicaciones web!
 
-![Demo del Proyecto](url_del_gif.gif)
+![Demo del Proyecto](https://i.imgur.com/VDBJFlb.gif)
 
